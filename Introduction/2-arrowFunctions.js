@@ -6,7 +6,7 @@ const input = (userName, userAge, userHasHobbies) => { //You can use the "this" 
      //A keyword 'this' se refere a quem está executando uma certa função
 
      //Utilizando a arrow function, este problema é resolvido. this, utilizando a arrow function
-     //irá se referir ao contexto primário da função
+     //irá se referir ao contexto mais geral
 
      
      return ('Name is: ' 
